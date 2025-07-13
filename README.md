@@ -123,6 +123,15 @@ CNN(Convolutional Neural Network)은 이미지 같은 고차원 데이터를 다
 | im2col 시도 | (성능 저하)                      | 6.3              |
 | 최적 구조 도출  | 벡터화, ping-pong, 2D pattern 등 | **1.53 \~ 1.57** |
 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/814a651c-a8d9-4913-93fb-9972ca1ef7f1" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/fb6f182d-7114-4ffd-b3d3-0750032390ca" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ff01aecd-00f4-479e-963b-c76387bb5c7c" />
+
+<br/>
+  
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/326067a6-93bb-4948-ada3-f7c6ad3524cf" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/cd8f4038-2708-4b73-8a19-20b9952d1440" />
+
 ---
 <br/>
 
